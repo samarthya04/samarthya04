@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/030f8b5d-fa61-4778-89ef-bced556cbcf7)
+![github-header-image](https://github.com/user-attachments/assets/341e4538-be89-4ade-91c4-d1dd26b78bef)
  
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,python,opencv,tensorflow,vscode,anaconda,pycharm,linux,ubuntu,kali)](https://skillicons.dev)
 ## 🌟 About Me  
@@ -15,8 +15,6 @@
 
 - **Data Science and Machine Learning Certification**  
   Massachusetts Institute of Technology (MIT IDSS, 2022)   
-
----
 
 ## 🎵 Hobbies and Interests  
 
