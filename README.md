@@ -10,7 +10,6 @@
 - 📫 **Reach Me At**:
   - Discord: slimshady
   - Email: [chattree.sam@gmail.com](mailto:chattree.sam@gmail.com)  
-  - [GitHub](https://github.com/samarthya04)  
   - [LinkedIn](https://www.linkedin.com/in/samarthya04)  
 
 ## 🏆 Certifications and Achievements  
