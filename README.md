@@ -20,4 +20,4 @@
 
 ## 🎵 Hobbies and Interests  
 
-Philately, Coin Collection, Music, Swimming  
+Philately, Coin Collection, Music
