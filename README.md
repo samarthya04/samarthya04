@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Samarthya 
 
-<!--
-**samarthya04/samarthya04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m a **Machine Learning Enthusiast** and **Computer Science Undergraduate** passionate about solving problems through data-driven insights and scalable AI solutions.  
 
-Here are some ideas to get you started:
+## 🌟 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Education**:  
+  CSE Student at KIIT. 
+
+- 📫 **Reach Me At**:
+  - Discord: slimshady
+  - Email: [chattree.sam@gmail.com](mailto:chattree.sam@gmail.com)  
+  - [GitHub](https://github.com/samarthya04)  
+  - [LinkedIn](https://www.linkedin.com/in/samarthya04)  
+
+## 🏆 Certifications and Achievements  
+
+- **Data Science and Machine Learning Certification**  
+  Massachusetts Institute of Technology (MIT IDSS, 2022)   
+
+---
+
+## 🎵 Hobbies and Interests  
+
+Philately, Coin Collection, Music, Swimming  
