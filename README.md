@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/user-attachments/assets/030f8b5d-fa61-4778-89ef-bced556cbcf7)
  
-[![My Skills](https://skillicons.dev/icons?i=vscode,ubuntu,kali,debian,anaconda,python,linux,tensorflow,opencv,c,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,ubuntu,kali,debian,anaconda,python,linux,tensorflow,opencv,c,html,css,java)](https://skillicons.dev)
 ## 🌟 About Me  
 
 - 🎓 **Education**:  
