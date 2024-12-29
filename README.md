@@ -4,7 +4,7 @@
 ## 🌟 About Me  
 
 - 🎓 **Education**:  
-  CSE Student at KIIT. 
+  - CSE Student at KIIT. 
 
 - 📫 **Reach Me At**:
   - Discord: slimshady
