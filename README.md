@@ -1,6 +1,5 @@
-# Hi there! 👋 I'm Samarthya 
-
-🔭 I’m a **Machine Learning Enthusiast** and **Computer Science Undergraduate** passionate about solving problems through data-driven insights and scalable AI solutions.  
+![github-header-image](https://github.com/user-attachments/assets/030f8b5d-fa61-4778-89ef-bced556cbcf7)
+ 
 
 ## 🌟 About Me  
 
