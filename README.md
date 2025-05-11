@@ -96,13 +96,13 @@ I'm a Computer Science Engineering student at KIIT with a passion for machine le
 <div align="center">
 
   <!-- Project 1 -->
-  <a href="https://github.com/samarthya04/face-recognition-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=face-recognition-system&theme=radical" />
+  <a href="https://github.com/samarthya04/NeuralStyle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=NeuralStyle&theme=radical" />
   </a>
   
   <!-- Project 2 -->
-  <a href="https://github.com/samarthya04/image-classification-model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=image-classification-model&theme=radical" />
+  <a href="https://github.com/samarthya04/Flappy-Bird">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=Flappy-Bird&theme=radical" />
   </a>
 
 </div>
@@ -125,16 +125,6 @@ I'm a Computer Science Engineering student at KIIT with a passion for machine le
 - 🏅 Participate in 3 global hackathons.  
 - 🚀 Deploy a production-ready ML model on AWS.
 
-## 🎵 Hobbies & Interests
-
-<div align="center">
-  
-  | Philately (Stamp Collecting) | Coin Collection | Music | Chess |
-  |:---:|:---:|:---:|:---:|
-  | <img src="https://img.icons8.com/color/48/000000/postage-stamp.png" width="48" height="48"/> | <img src="https://img.icons8.com/color/48/000000/coins.png" width="48" height="48"/> | <img src="https://img.icons8.com/color/48/000000/musical-notes.png" width="48" height="48"/> | <img src="https://img.icons8.com/color/48/000000/chess.png" width="48" height="48"/> |
-
-</div>
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -151,7 +141,5 @@ I'm a Computer Science Engineering student at KIIT with a passion for machine le
 <div align="center">
   
   ### 🌟 Thanks for visiting my profile! 🌟
-  
-  ![Snake animation](https://github.com/samarthya04/samarthya04/blob/output/github-contribution-grid-snake.svg)
   
 </div>
