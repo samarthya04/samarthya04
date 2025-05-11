@@ -121,7 +121,7 @@
         <h3 align="center">Neural Style Transfer</h3>
         <div align="center">
           <a href="https://github.com/samarthya04/NeuralStyle">
-            ![project1](https://github.com/user-attachments/assets/b0789275-8a8a-4cfa-baf2-376762227e5c)
+            <img alt="Neural Style Transfer" src="https://github.com/user-attachments/assets/b0789275-8a8a-4cfa-baf2-376762227e5c" />
           </a>
           <p>
             <a href="https://github.com/samarthya04/NeuralStyle" target="_blank">
@@ -135,7 +135,7 @@
         <h3 align="center">AI Flappy Bird</h3>
         <div align="center">
           <a href="https://github.com/samarthya04/Flappy-Bird">
-            ![gameplay (1)](https://github.com/user-attachments/assets/2759a3e7-5869-421e-9ce6-b5e1c9dd617e)
+            <img alt="AI Flappy Bird" src="https://github.com/user-attachments/assets/2759a3e7-5869-421e-9ce6-b5e1c9dd617e" />
           </a>
           <p>
             <a href="https://github.com/samarthya04/Flappy-Bird" target="_blank">
