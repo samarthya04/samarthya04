@@ -160,24 +160,6 @@
         Massachusetts Institute of Technology (MIT IDSS) - 2022
       </td>
     </tr>
-    <tr>
-      <td>
-        <img width="70px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
-      </td>
-      <td>
-        <strong>Competition Finalist</strong><br>
-        Image Classification Challenge - 2023
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img width="70px" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white">
-      </td>
-      <td>
-        <strong>5 Star Python Developer</strong><br>
-        HackerRank Certification - 2022
-      </td>
-    </tr>
   </table>
 
   <summary><h2>🎯 Goals for 2025</h2></summary>
