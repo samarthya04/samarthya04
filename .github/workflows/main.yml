@@ -1,9 +1,9 @@
 name: Generate Dynamic Assets
 on:
   schedule:
-    - cron: "0 */12 * * *" # Run every 12 hours at midnight and noon UTC
-  workflow_dispatch: # Allow manual trigger
-  push: # Run on push to main branch for immediate updates
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
     branches:
       - main
 
@@ -12,39 +12,26 @@ jobs:
     name: Update Dynamic Assets
     runs-on: ubuntu-latest
     steps:
-      # Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # Generate Snake Animation
+      - name: Prepare Output Directory
+        run: mkdir -p dist
+
       - name: Generate Snake Animation
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: samarthya04
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Generate GitHub Stats Card
-      - name: Generate GitHub Stats Card
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: samarthya04
-          output: dist/github-stats.svg
-          theme: radical
-          show_icons: true
-          include_all_commits: true
-          count_private: true
+      - name: Download GitHub Stats Card
+        run: |
+          curl -o dist/github-stats.svg "https://github-readme-stats.vercel.app/api?username=samarthya04&theme=radical&show_icons=true&include_all_commits=true&count_private=true"
 
-      # Generate Top Languages Card
-      - name: Generate Top Languages Card
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: samarthya04
-          output: dist/top-languages.svg
-          theme: radical
-          layout: compact
+      - name: Download Top Languages Card
+        run: |
+          curl -o dist/top-languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=samarthya04&theme=radical&layout=compact"
 
-      # Deploy to GitHub Pages (output branch)
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
