@@ -16,9 +16,6 @@
     <a href="https://discord.com/users/slimshady">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
-    <a href="https://twitter.com/samarthya04">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-    </a>
   </p>
   
   ![GitHub followers](https://img.shields.io/github/followers/samarthya04?style=flat&logo=github)
@@ -26,7 +23,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/samarthya04?style=flat&logo=github)
   
   <a href="https://github.com/samarthya04">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarthya04&theme=radical" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarthya04&theme=chartreuse-dark" />
   </a>
 
 </div>
