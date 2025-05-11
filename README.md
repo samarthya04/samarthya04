@@ -71,12 +71,12 @@ I'm a Computer Science Engineering student at KIIT with a passion for machine le
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarthya04&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarthya04&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthya04&layout=compact&theme=shadow_green" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=samarthya04&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=samarthya04&theme=shadow_green" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
