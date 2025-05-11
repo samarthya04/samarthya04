@@ -96,7 +96,7 @@
     </a>
     <h3>📈 Contribution Graph</h3>
     <a href="https://github.com/samarthya04">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthya04&theme=dark&hide_border=true" alt="Contribution Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthya04&theme=default&hide_border=true" alt="Contribution Graph" />
     </a>
   </div>
 
