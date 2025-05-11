@@ -120,7 +120,6 @@ I'm a Computer Science Engineering student at KIIT with a passion for machine le
   [![Email](https://img.shields.io/badge/Email-chattree.sam%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chattree.sam@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samarthya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarthya)
   [![Discord](https://img.shields.io/badge/Discord-slimshady-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/slimshady)
-  [![Twitter](https://img.shields.io/badge/Twitter-@samarthya04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/samarthya04)
 
 </div>
 
