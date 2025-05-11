@@ -31,7 +31,6 @@
 
 </div>
 
-<details>
   <summary><h2>🧠 About Me</h2></summary>
   <blockquote>
     I'm a Computer Science Engineering student at KIIT with a passion for machine learning, computer vision, and software development. I enjoy solving complex problems and building applications that make a difference.
@@ -43,9 +42,7 @@
   - 💬 Ask me about **Python, Machine Learning, OpenCV, TensorFlow**
   - 🎓 Data Science and Machine Learning Certification from **MIT IDSS (2022)**
   - 🌟 Fun fact: I once trained a model to recognize my dog's voice! 🐕
-</details>
 
-<details open>
   <summary><h2>🛠️ Tech Stack</h2></summary>
   <div align="center">
 
@@ -88,37 +85,24 @@
   <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,html,css,js,tensorflow,pytorch,opencv,fastapi,vscode,git,github,docker,aws,linux" alt="My Skills" />
   </div>
-</details>
 
-<details>
   <summary><h2>📊 GitHub Activity</h2></summary>
   <div align="center">
     <a href="https://github.com/samarthya04">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarthya04&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarthya04&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
     <a href="https://github.com/samarthya04">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthya04&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthya04&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
     </a>
-    
-    <br/>
-    
     <a href="https://github.com/samarthya04">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=samarthya04&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=samarthya04&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
     </a>
-    
     <h3>📈 Contribution Graph</h3>
     <a href="https://github.com/samarthya04">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthya04&theme=redical&hide_border=true" alt="Contribution Graph" />
-    </a>
-    
-    <h3>🏆 GitHub Trophies</h3>
-    <a href="https://github.com/samarthya04">
-      <img src="https://github-profile-trophy.vercel.app/?username=samarthya04&theme=radical&row=1&column=7&no-frame=true" alt="GitHub Trophies"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthya04&theme=chartreuse-dark&hide_border=true" alt="Contribution Graph" />
     </a>
   </div>
-</details>
 
-<details>
   <summary><h2>🚀 Featured Projects</h2></summary>
   <div align="center">
     <a href="https://github.com/samarthya04/NeuralStyle">
@@ -169,9 +153,7 @@
       </td>
     </tr>
   </table>
-</details>
 
-<details>
   <summary><h2>📜 Certifications & Achievements</h2></summary>
   
   <table>
@@ -203,9 +185,7 @@
       </td>
     </tr>
   </table>
-</details>
 
-<details>
   <summary><h2>🎯 Goals for 2025</h2></summary>
   <div align="center">
     <table>
@@ -229,9 +209,7 @@
       </tr>
     </table>
   </div>
-</details>
 
-<details>
   <summary><h2>🔄 Recent Activity</h2></summary>
   
   <!--START_SECTION:activity-->
