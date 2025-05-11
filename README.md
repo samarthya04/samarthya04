@@ -217,7 +217,7 @@
   
   ### 🌟 Thanks for visiting my profile! 🌟
   
-  <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="150px">
+  <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="350px">
   
   <h4>👇 Check out my pinned repositories below 👇</h4>
 </div>
