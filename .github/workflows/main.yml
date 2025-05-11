@@ -18,7 +18,7 @@ jobs:
 
       # Generate Snake Animation
       - name: Generate Snake Animation
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: samarthya04
@@ -50,16 +50,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Commit Updated Assets to Main Branch (Optional)
-      - name: Commit Updated Assets
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add dist/*
-          git commit -m "Update dynamic assets (snake, stats, languages)" || echo "No changes to commit"
-          git push
+          commit_message: "Update dynamic assets (snake, stats, languages)"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
