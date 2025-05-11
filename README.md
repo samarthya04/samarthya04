@@ -72,16 +72,11 @@ I'm a Computer Science Engineering student at KIIT with a passion for machine le
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarthya04&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthya04&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthya04&layout=compact&theme=shadow_green" />
 </div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=samarthya04&theme=radical" alt="GitHub Streak" />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=samarthya04&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ## 🏆 GitHub Trophies
