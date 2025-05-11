@@ -27,8 +27,7 @@ I'm a Computer Science Engineering student at KIIT with a passion for machine le
 - 👯 Looking to collaborate on **Open Source AI Projects**
 - 💬 Ask me about **Python, Machine Learning, OpenCV, TensorFlow**
 - 🎓 Data Science and Machine Learning Certification from **MIT IDSS (2022)**
-- 📝 Blogging about ML and tech at **[My Blog](https://samarthya04.github.io/blog)** *(Placeholder: Replace with actual link)*
-- 🌟 Fun fact: I once trained a model to recognize my cat’s meows! 😺
+- 🌟 Fun fact: I once trained a model to recognize my dog's voice! 😺
 
 ## 🛠️ Tech Stack
 
@@ -110,13 +109,7 @@ I'm a Computer Science Engineering student at KIIT with a passion for machine le
 ## 📜 Certifications & Achievements
 
 - **Data Science and Machine Learning Certification**  
-  - Massachusetts Institute of Technology (MIT IDSS, 2022)  
-- **Hackathon Winner**  
-  - Secured 1st place in KIIT Hackathon 2023 for an AI-based traffic management system.  
-- **Open Source Contributor**  
-  - Contributed to [TensorFlow Addons](https://github.com/tensorflow/addons) with 2 merged PRs.  
-- **LeetCode Knight Badge**  
-  - Solved 300+ problems with a rating of 1800+.
+  - Massachusetts Institute of Technology (MIT IDSS, 2022) 
 
 ## 🎯 Goals for 2025
 
