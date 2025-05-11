@@ -212,9 +212,6 @@
   <a href="https://discord.com/users/slimshady">
     <img src="https://img.shields.io/badge/Discord-slimshady-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="https://twitter.com/samarthya04">
-    <img src="https://img.shields.io/badge/Twitter-samarthya04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
   
