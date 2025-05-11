@@ -106,10 +106,10 @@
   <summary><h2>🚀 Featured Projects</h2></summary>
   <div align="center">
     <a href="https://github.com/samarthya04/NeuralStyle">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=NeuralStyle&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=NeuralStyle&theme=chartreuse-dark&hide_border=true" />
     </a>
     <a href="https://github.com/samarthya04/Flappy-Bird">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=Flappy-Bird&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=Flappy-Bird&theme=chartreuse-dark&hide_border=true" />
     </a>
   </div>
 
@@ -199,7 +199,7 @@
   <!--END_SECTION:waka-->
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samarthya04&theme=radical&hide_border=true" alt="WakaTime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samarthya04&theme=chartreuse-dark&hide_border=true" alt="WakaTime Stats" />
   </div>
 </details>
 
