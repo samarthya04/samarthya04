@@ -23,7 +23,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/samarthya04?style=flat&logo=github)
   
   <a href="https://github.com/samarthya04">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarthya04&theme=chartreuse-dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarthya04&theme=github_dark" />
   </a>
 
 </div>
@@ -86,27 +86,27 @@
   <summary><h2>📊 GitHub Activity</h2></summary>
   <div align="center">
     <a href="https://github.com/samarthya04">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarthya04&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarthya04&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
     <a href="https://github.com/samarthya04">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthya04&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthya04&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
     </a>
     <a href="https://github.com/samarthya04">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=samarthya04&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=samarthya04&theme=github_dark&hide_border=true" alt="GitHub Streak" />
     </a>
     <h3>📈 Contribution Graph</h3>
     <a href="https://github.com/samarthya04">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthya04&theme=chartreuse-dark&hide_border=true" alt="Contribution Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthya04&theme=github_dark&hide_border=true" alt="Contribution Graph" />
     </a>
   </div>
 
   <summary><h2>🚀 Featured Projects</h2></summary>
   <div align="center">
     <a href="https://github.com/samarthya04/NeuralStyle">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=NeuralStyle&theme=chartreuse-dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=NeuralStyle&theme=github_dark&hide_border=true" />
     </a>
     <a href="https://github.com/samarthya04/Flappy-Bird">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=Flappy-Bird&theme=chartreuse-dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=Flappy-Bird&theme=github_dark&hide_border=true" />
     </a>
   </div>
 
