@@ -121,15 +121,12 @@
         <h3 align="center">Neural Style Transfer</h3>
         <div align="center">
           <a href="https://github.com/samarthya04/NeuralStyle">
-            <img src="https://via.placeholder.com/350x200?text=Neural+Style+Transfer" width="100%" alt="Neural Style Transfer"/>
+            ![project1](https://github.com/user-attachments/assets/b0789275-8a8a-4cfa-baf2-376762227e5c)
           </a>
           <p>
             <a href="https://github.com/samarthya04/NeuralStyle" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
             </a>  
-            <a href="https://github.com/samarthya04/NeuralStyle" target="_blank">
-              <img src="https://img.shields.io/badge/Live-darkgreen?style=for-the-badge&logo=none"/>
-            </a>
           </p>
           <p>Implementation of neural style transfer algorithms using PyTorch and TensorFlow</p>
         </div>
@@ -138,14 +135,11 @@
         <h3 align="center">AI Flappy Bird</h3>
         <div align="center">
           <a href="https://github.com/samarthya04/Flappy-Bird">
-            <img src="https://via.placeholder.com/350x200?text=Flappy+Bird+AI" width="100%" alt="Flappy Bird AI"/>
+            ![gameplay (1)](https://github.com/user-attachments/assets/2759a3e7-5869-421e-9ce6-b5e1c9dd617e)
           </a>
           <p>
             <a href="https://github.com/samarthya04/Flappy-Bird" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-            </a>  
-            <a href="https://github.com/samarthya04/Flappy-Bird" target="_blank">
-              <img src="https://img.shields.io/badge/Live-darkgreen?style=for-the-badge&logo=none"/>
             </a>
           </p>
           <p>NEAT algorithm implementation to train an AI to play Flappy Bird perfectly</p>
