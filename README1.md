@@ -135,7 +135,7 @@
         <h3 align="center">AI Flappy Bird</h3>
         <div align="center">
           <a href="https://github.com/samarthya04/Flappy-Bird">
-            <img alt="AI Flappy Bird" src="https://github.com/user-attachments/assets/2759a3e7-5869-421e-9ce6-b5e1c9dd617e" />
+            <img alt="AI Flappy Bird" src="https://github.com/user-attachments/assets/2759a3e7-5869-421e-9ce6-b5e1c9dd617e" width=50%/>
           </a>
           <p>
             <a href="https://github.com/samarthya04/Flappy-Bird" target="_blank">
