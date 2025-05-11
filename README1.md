@@ -186,22 +186,21 @@
     </table>
   </div>
 
-  <summary><h2>🔄 Recent Activity</h2></summary>
+  <!-- <summary><h2>🔄 Recent Activity</h2></summary>
   
-  <!--START_SECTION:activity-->
-  <!-- This section will be automatically updated by a GitHub Action -->
-  <!--END_SECTION:activity-->
+  START_SECTION:activity
+  This section will be automatically updated by a GitHub Action
+  END_SECTION:activity
   
   ### 📊 WakaTime Stats
   
-  <!--START_SECTION:waka-->
-  <!-- This section will be automatically updated by a GitHub Action -->
-  <!--END_SECTION:waka-->
-  
+  START_SECTION:waka
+  This section will be automatically updated by a GitHub Action
+  END_SECTION:waka
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samarthya04&theme=chartreuse-dark&hide_border=true" alt="WakaTime Stats" />
   </div>
-</details>
+  -->
 
 <div align="center">
   
