@@ -91,8 +91,8 @@
     <a href="https://github.com/samarthya04">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthya04&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
     </a>
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=samarthya04&theme=chartreuse-dark&hide_border=true&mode=weekly" alt="GitHub Streak" />
+    <a href="https://github.com/samarthya04">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=samarthya04&theme=chartreuse-dark&hide_border=true&mode=daily" alt="GitHub Streak" />
     </a>
     <h3>📈 Contribution Graph</h3>
     <a href="https://github.com/samarthya04">
