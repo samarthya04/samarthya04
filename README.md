@@ -29,9 +29,11 @@
 </div>
 
   <summary><h2>🧠 About Me</h2></summary>
+  <!--
   <blockquote>
     I'm a Computer Science Engineering student at KIIT with a passion for machine learning, computer vision, and software development. I enjoy solving complex problems and building applications that make a difference.
   </blockquote>
+  -->
 
   - 🔭 Currently working on **Advanced Deep Learning Projects**
   - 🌱 Learning **Computer Vision, Transformers, and PyTorch**
@@ -217,7 +219,7 @@
   
   ### 🌟 Thanks for visiting my profile! 🌟
   
-  <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="350px">
+  <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="250px">
   
   <h4>👇 Check out my pinned repositories below 👇</h4>
 </div>
