@@ -2,7 +2,7 @@
   
   # 👋 Hello World, I'm Samarthya!
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student+at+KIIT;Machine+Learning+Enthusiast;Problem+Solver;Open+Source+Contributor;AI+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student+at+KIIT;Machine+Learning+Enthusiast;Problem+Solver;AI+Developer)](https://git.io/typing-svg)
   
   <img alt="GitHub Profile Banner" src="https://github.com/user-attachments/assets/341e4538-be89-4ade-91c4-d1dd26b78bef" />
   
