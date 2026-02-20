@@ -161,7 +161,7 @@
     </tr>
   </table>
 
-  <summary><h2>🎯 Goals for 2025</h2></summary>
+  <summary><h2>🎯 Goals for 2026</h2></summary>
   <div align="center">
     <table>
       <tr>
@@ -208,7 +208,7 @@
   <a href="mailto:chattree.sam@gmail.com">
     <img src="https://img.shields.io/badge/Email-chattree.sam%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/samarthya">
+  <a href="https://www.linkedin.com/in/samarthya04">
     <img src="https://img.shields.io/badge/LinkedIn-Samarthya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://discord.com/users/slimshady">
