@@ -38,26 +38,37 @@
 
 ## 💻 Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Machine Learning & Data Science**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Cloud, Tools & Environments**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Languages</b></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>ML & Data</b></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Infrastructure</b></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 Featured Research & Projects
 
@@ -91,14 +102,14 @@
       <h3>Neural Style Transfer</h3>
       <p>Implementation of neural style transfer algorithms to dynamically stylize images using Deep Learning pipelines.</p>
       <a href="https://github.com/samarthya04/NeuralStyle">
-        <img alt="Neural Style Transfer" src="https://github.com/user-attachments/assets/b0789275-8a8a-4cfa-baf2-376762227e5c" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=NeuralStyle&theme=github_dark&hide_border=true" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>AI Flappy Bird</h3>
       <p>Trained an AI utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm to master Flappy Bird.</p>
       <a href="https://github.com/samarthya04/Flappy-Bird">
-        <img alt="AI Flappy Bird" src="https://github.com/user-attachments/assets/2759a3e7-5869-421e-9ce6-b5e1c9dd617e" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=Flappy-Bird&theme=github_dark&hide_border=true" width="100%" />
       </a>
     </td>
   </tr>
@@ -107,17 +118,27 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/samarthya04/samarthya04/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+</div>
+
+<div align="center">
   <a href="https://github.com/samarthya04">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarthya04&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
   </a>
   <a href="https://github.com/samarthya04">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthya04&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
   </a>
-  <br><br>
-  <a href="https://github.com/samarthya04">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthya04&theme=github-compact&hide_border=true&color=36BCF7" alt="Contribution Graph" width="80%" />
-  </a>
 </div>
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samarthya04/samarthya04/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samarthya04/samarthya04/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samarthya04/samarthya04/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ## 📜 Certifications
 
