@@ -2,7 +2,7 @@
   
   # 👋 Hello World, I'm Samarthya!
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student+at+KIIT;Machine+Learning+Enthusiast;Problem+Solver;AI+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student+at+KIIT;Incoming+Engineer+at+Blackbaud;Machine+Learning+Researcher;AI+Developer)](https://git.io/typing-svg)
   
   <img alt="GitHub Profile Banner" src="https://github.com/user-attachments/assets/341e4538-be89-4ade-91c4-d1dd26b78bef" />
   
@@ -28,178 +28,191 @@
 
 </div>
 
-  <summary><h2>🧠 About Me</h2></summary>
-  <!--
-  <blockquote>
-    I'm a Computer Science Engineering student at KIIT with a passion for machine learning, computer vision, and software development. I enjoy solving complex problems and building applications that make a difference.
-  </blockquote>
-  -->
+## 🧠 About Me
 
-  - 🔭 Currently working on **Advanced Deep Learning Projects**
-  - 🌱 Learning **Computer Vision, Transformers, and PyTorch**
-  - 👯 Looking to collaborate on **Open Source AI Projects**
-  - 💬 Ask me about **Python, Machine Learning, OpenCV, TensorFlow**
-  - 🎓 Data Science and Machine Learning Certification from **MIT IDSS (2022)**
-  - 🌟 Fun fact: I once trained a model to recognize my dog's voice! 🐕
+- 🔭 Currently developing **Hi-MambaSR**, focusing on hierarchical state-space refinement for latent diffusion super-resolution.
+- 🌱 Optimizing complex deep learning models for **6GB consumer GPUs** using gradient checkpointing and 8-bit optimization.
+- 💼 Incoming Software Engineer at **Blackbaud** | Previously: Data Science and Analytics Intern at **Corteva Agriscience** (Developed *AgriBot*).
+- 🎓 B.Tech CSE (8.81 CGPA) at **Kalinga Institute of Industrial Technology (KIIT)**.
+- 💬 Ask me about **Computer Vision, GANs, Diffusion Models, PyTorch Lightning, and State-Space Models**.
+- 🌟 Fun fact: I once trained a model to recognize my dog's voice! 🐕
 
-  <summary><h2>🛠️ Tech Stack</h2></summary>
-  <div align="center">
+---
 
-  <h3>💻 Programming Languages</h3>
+<h3 align="center">💻 Technology Stack</h3>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="Python" width="60" title="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" title="Java"/>
+  &nbsp;&nbsp;
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="JavaScript" width="60" title="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML5" width="60" title="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS3" width="60" title="CSS3"/>
   
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  <br/><br/>
   
-  <h3>🧰 Frameworks & Libraries</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" title="PyTorch"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" title="TensorFlow"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" title="OpenCV"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60" title="NumPy"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" title="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" title="Scikit-Learn"/>
   
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" title="FastAPI"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" title="AWS"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="60" title="Google Cloud"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" title="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/Vc64hRodlWNoj3sMxu/giphy.gif" alt="Linux" width="60" title="Linux"/>
+  &nbsp;&nbsp;
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" alt="VS Code" width="60" title="VS Code"/>
   
-  <h3>🔧 Tools & Environments</h3>
+  <br/><br/>
   
-  ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-  ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="60" title="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" alt="GitHub" width="60" title="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="60" title="Anaconda"/>
+</p>
+
+---
+
+## 📊 GitHub Activity
+<div align="center">
+  <a href="https://github.com/samarthya04">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarthya04&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/samarthya04">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthya04&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  </a>
+  <a href="https://github.com/samarthya04">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=samarthya04&theme=github-dark&hide_border=true&mode=daily" alt="GitHub Streak" />
+  </a>
+  <h3>📈 Contribution Graph</h3>
+  <a href="https://github.com/samarthya04">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthya04&theme=chartreuse-dark&hide_border=true" alt="Contribution Graph" />
+  </a>
+</div>
+
+## 🚀 Featured Projects
+<div align="center">
+  <a href="https://github.com/samarthya04/Vision-Weaver">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=Vision-Weaver&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/samarthya04/Hi-MambaSR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=Hi-MambaSR&theme=github_dark&hide_border=true" />
+  </a>
+</div>
+
+### 🔍 Project Highlights
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Project Vision Weaver</h3>
+      <div align="center">
+        <p>Implementation of <strong>SupResDiffGAN</strong> for cutting-edge image super-resolution using PyTorch Lightning. Successfully achieved a highly competitive <strong>LPIPS score of 0.193</strong>.</p>
+        <p>
+          <img src="https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=flat-square&logo=pytorch-lightning&logoColor=white" />
+          <img src="https://img.shields.io/badge/GANs-FF6F00?style=flat-square" />
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Project Hi-MambaSR</h3>
+      <div align="center">
+        <p>Advanced hierarchical state-space refinement architecture for latent diffusion super-resolution. Architected specifically to run efficiently on <strong>consumer hardware (6GB GPUs)</strong>.</p>
+        <p>
+          <img src="https://img.shields.io/badge/State_Space_Models-000000?style=flat-square" />
+          <img src="https://img.shields.io/badge/Diffusion-0A66C2?style=flat-square" />
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Neural Style Transfer</h3>
+      <div align="center">
+        <a href="https://github.com/samarthya04/NeuralStyle">
+          <img alt="Neural Style Transfer" src="https://github.com/user-attachments/assets/b0789275-8a8a-4cfa-baf2-376762227e5c" />
+        </a>
+        <br/><br/>
+        <p>Implementation of neural style transfer algorithms to stylize images dynamically using Deep Learning models.</p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">AI Flappy Bird</h3>
+      <div align="center">
+        <a href="https://github.com/samarthya04/Flappy-Bird">
+          <img alt="AI Flappy Bird" src="https://github.com/user-attachments/assets/2759a3e7-5869-421e-9ce6-b5e1c9dd617e" width="40%" />
+        </a>
+        <br/><br/>
+        <p>Trained an AI utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm to play Flappy Bird flawlessly.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## 📜 Certifications & Achievements
   
-  <h3>☁️ Cloud & DevOps</h3>
-  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+<table>
+  <tr>
+    <td>
+      <img width="70px" src="https://img.shields.io/badge/MIT-A31F34?style=for-the-badge&logo=mit&logoColor=white">
+    </td>
+    <td>
+      <strong>Data Science and Machine Learning Certification</strong><br>
+      Massachusetts Institute of Technology (MIT IDSS) - 2022
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="70px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+    </td>
+    <td>
+      <strong>Google Cloud AI Labs Series</strong><br>
+      Completed intensive hands-on training at IIT Bhubaneswar
+    </td>
+  </tr>
+</table>
 
-  </div>
-
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,tensorflow,pytorch,opencv,fastapi,vscode,git,github,docker,aws,linux" alt="My Skills" />
-  </div>
-
-  <summary><h2>📊 GitHub Activity</h2></summary>
-  <div align="center">
-    <a href="https://github.com/samarthya04">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarthya04&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-    <a href="https://github.com/samarthya04">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthya04&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-    </a>
-    <a href="https://github.com/samarthya04">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=samarthya04&theme=github-dark&hide_border=true&mode=daily" alt="GitHub Streak" />
-    </a>
-    <h3>📈 Contribution Graph</h3>
-    <a href="https://github.com/samarthya04">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthya04&theme=chartreuse-dark&hide_border=true" alt="Contribution Graph" />
-    </a>
-  </div>
-
-  <summary><h2>🚀 Featured Projects</h2></summary>
-  <div align="center">
-    <a href="https://github.com/samarthya04/NeuralStyle">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=NeuralStyle&theme=github_dark&hide_border=true" />
-    </a>
-    <a href="https://github.com/samarthya04/Flappy-Bird">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthya04&repo=Flappy-Bird&theme=github_dark&hide_border=true" />
-    </a>
-  </div>
-
-  <h3>🔍 Project Highlights</h3>
-
+## 🎯 Goals for 2026
+<div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center">Neural Style Transfer</h3>
-        <div align="center">
-          <a href="https://github.com/samarthya04/NeuralStyle">
-            <img alt="Neural Style Transfer" src="https://github.com/user-attachments/assets/b0789275-8a8a-4cfa-baf2-376762227e5c" />
-          </a>
-          <p>
-            <a href="https://github.com/samarthya04/NeuralStyle" target="_blank">
-              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-            </a>  
-          </p>
-          <p>Implementation of neural style transfer algorithms using PyTorch and TensorFlow</p>
-        </div>
+      <td align="center" width="25%">
+        <img width="100%" src="https://img.shields.io/badge/🧑‍💻-Contribute-purple?style=for-the-badge">
+        <p>10+ open-source AI projects</p>
       </td>
-      <td width="50%">
-        <h3 align="center">AI Flappy Bird</h3>
-        <div align="center">
-          <a href="https://github.com/samarthya04/Flappy-Bird">
-            <img alt="AI Flappy Bird" src="https://github.com/user-attachments/assets/2759a3e7-5869-421e-9ce6-b5e1c9dd617e" width=40% />
-          </a>
-          <p>
-            <a href="https://github.com/samarthya04/Flappy-Bird" target="_blank">
-              <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-            </a>
-          </p>
-          <p>NEAT algorithm implementation to train an AI to play Flappy Bird perfectly</p>
-        </div>
+      <td align="center" width="25%">
+        <img width="100%" src="https://img.shields.io/badge/📚-Publish-blue?style=for-the-badge">
+        <p>5 technical ML blog posts</p>
+      </td>
+      <td align="center" width="25%">
+        <img width="100%" src="https://img.shields.io/badge/🏅-Compete-red?style=for-the-badge">
+        <p>3 global hackathons</p>
+      </td>
+      <td align="center" width="25%">
+        <img width="100%" src="https://img.shields.io/badge/🚀-Deploy-green?style=for-the-badge">
+        <p>Production ML model on AWS</p>
       </td>
     </tr>
   </table>
-
-  <summary><h2>📜 Certifications & Achievements</h2></summary>
-  
-  <table>
-    <tr>
-      <td>
-        <img width="70px" src="https://img.shields.io/badge/MIT-A31F34?style=for-the-badge&logo=mit&logoColor=white">
-      </td>
-      <td>
-        <strong>Data Science and Machine Learning Certification</strong><br>
-        Massachusetts Institute of Technology (MIT IDSS) - 2022
-      </td>
-    </tr>
-  </table>
-
-  <summary><h2>🎯 Goals for 2026</h2></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center" width="25%">
-          <img width="100%" src="https://img.shields.io/badge/🧑‍💻-Contribute-purple?style=for-the-badge">
-          <p>10+ open-source AI projects</p>
-        </td>
-        <td align="center" width="25%">
-          <img width="100%" src="https://img.shields.io/badge/📚-Publish-blue?style=for-the-badge">
-          <p>5 technical ML blog posts</p>
-        </td>
-        <td align="center" width="25%">
-          <img width="100%" src="https://img.shields.io/badge/🏅-Compete-red?style=for-the-badge">
-          <p>3 global hackathons</p>
-        </td>
-        <td align="center" width="25%">
-          <img width="100%" src="https://img.shields.io/badge/🚀-Deploy-green?style=for-the-badge">
-          <p>Production ML model on AWS</p>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <!-- <summary><h2>🔄 Recent Activity</h2></summary>
-  
-  START_SECTION:activity
-  This section will be automatically updated by a GitHub Action
-  END_SECTION:activity
-  
-  ### 📊 WakaTime Stats
-  
-  START_SECTION:waka
-  This section will be automatically updated by a GitHub Action
-  END_SECTION:waka
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=samarthya04&theme=chartreuse-dark&hide_border=true" alt="WakaTime Stats" />
-  </div>
-  -->
+</div>
 
 <div align="center">
   
