@@ -18,9 +18,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/followers/samarthya04?style=flat-square&logo=github&color=36BCF7" alt="Followers" />
   <img src="https://komarev.com/ghpvc/?username=samarthya04&style=flat-square&color=36BCF7" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/samarthya04?style=flat-square&logo=github&color=36BCF7" alt="Stars" />
 </p>
 
 </div>
@@ -31,10 +29,7 @@
 
 I'm a software engineer working at the intersection of platform engineering and applied deep learning. I research and ship computer vision architectures — currently focused on making diffusion-based super-resolution models efficient enough to run on consumer-grade GPUs.
 
-- 💼 **Associate Software Engineer** at **Blackbaud**, working with **C# .NET** and **Web API**.
-- 🔭 **Current research:** *Hi-MambaSR* — a hierarchical state-space refinement model for latent diffusion super-resolution.
 - 🌱 **Deep learning focus:** optimizing models for constrained hardware using gradient checkpointing and 8-bit precision.
-- 🎓 **Education:** B.Tech in Computer Science & Engineering (8.86 CGPA), **KIIT**.
 - 🧪 **Past work:** Data Science & Analytics Intern at **Corteva Agriscience**, where I built *AgriBot*.
 
 <br>
