@@ -299,7 +299,7 @@ def generate_svg(theme, stats):
         return f'<tspan fill="{c[color_key]}">{text}</tspan>'
 
     # Helper: build one full line (line-number + content)
-    def line(y, num, content='', x_offset=300):
+    def line(y, num, content='', x_offset=370):
         ln = col('ln', f'{num:>2}')
         if not content:
             return f'<tspan x="{x_offset}" y="{y}">{ln}</tspan>'
@@ -363,7 +363,7 @@ def generate_svg(theme, stats):
     ascii_group = '\n'.join(ascii_tspans)
 
     return f'''<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1050px" height="480px" font-size="15px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1120px" height="480px" font-size="15px">
 <style>
 @font-face {{
 src: local('Consolas'), local('Consolas Bold');
@@ -374,7 +374,7 @@ size-adjust: 109%;
 }}
 text, tspan {{white-space: pre;}}
 </style>
-<rect width="1050px" height="480px" fill="{c['bg']}" rx="15"/>
+<rect width="1120px" height="480px" fill="{c['bg']}" rx="15"/>
 <text x="15" y="30" fill="{c['text']}">
 {ascii_group}
 {tspans}

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1050px" height="480px" font-size="15px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1120px" height="480px" font-size="15px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -10,7 +10,7 @@ size-adjust: 109%;
 }
 text, tspan {white-space: pre;}
 </style>
-<rect width="1050px" height="480px" fill="#f6f8fa" rx="15"/>
+<rect width="1120px" height="480px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#24292f">
 <tspan x="30" y="20" fill="#8c959f" font-size="8px"></tspan>
 <tspan x="30" y="28" fill="#8c959f" font-size="8px"></tspan>
@@ -67,27 +67,27 @@ text, tspan {white-space: pre;}
 <tspan x="30" y="436" fill="#8c959f" font-size="8px">   :       -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
 <tspan x="30" y="444" fill="#8c959f" font-size="8px">   :       :%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=    .:-</tspan>
 <tspan x="30" y="452" fill="#8c959f" font-size="8px">   :       -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-     .:</tspan>
-<tspan x="300" y="35"><tspan fill="#8c959f"> 1</tspan>  <tspan fill="#6e7781"># ==========================================================================</tspan></tspan>
-<tspan x="300" y="55"><tspan fill="#8c959f"> 2</tspan>  <tspan fill="#6e7781">#  samarthya04/README.py                Computer Vision &amp; Diffusion Models</tspan></tspan>
-<tspan x="300" y="75"><tspan fill="#8c959f"> 3</tspan>  <tspan fill="#6e7781"># ==========================================================================</tspan></tspan>
-<tspan x="300" y="95"><tspan fill="#8c959f"> 4</tspan></tspan>
-<tspan x="300" y="115"><tspan fill="#8c959f"> 5</tspan>  <tspan fill="#cf222e">class</tspan> <tspan fill="#8250df">SamarthyaChattree</tspan>:</tspan>
-<tspan x="300" y="135"><tspan fill="#8c959f"> 6</tspan>      <tspan fill="#0a3069">"""Associate Software Engineer @ Blackbaud"""</tspan></tspan>
-<tspan x="300" y="155"><tspan fill="#8c959f"> 7</tspan></tspan>
-<tspan x="300" y="175"><tspan fill="#8c959f"> 8</tspan>      <tspan fill="#953800">name</tspan>       = <tspan fill="#0a3069">"Samarthya Earnest Chattree"</tspan></tspan>
-<tspan x="300" y="195"><tspan fill="#8c959f"> 9</tspan>      <tspan fill="#953800">role</tspan>       = <tspan fill="#0a3069">"Associate Software Engineer @ Blackbaud"</tspan></tspan>
-<tspan x="300" y="215"><tspan fill="#8c959f">10</tspan>      <tspan fill="#953800">research</tspan>   = <tspan fill="#0a3069">"Hi-MambaSR: Hierarchical State-Space Refinement"</tspan></tspan>
-<tspan x="300" y="235"><tspan fill="#8c959f">11</tspan>      <tspan fill="#953800">education</tspan>  = <tspan fill="#0a3069">"B.Tech CSE, KIIT (8.86 CGPA)"</tspan></tspan>
-<tspan x="300" y="255"><tspan fill="#8c959f">12</tspan></tspan>
-<tspan x="300" y="275"><tspan fill="#8c959f">13</tspan>      <tspan fill="#6e7781"># GitHub Statistics</tspan>                          <tspan fill="#6e7781"># updated: Jul 11, 2026</tspan></tspan>
-<tspan x="300" y="295"><tspan fill="#8c959f">14</tspan>      <tspan fill="#953800">repos</tspan>      = <tspan fill="#0550ae">35</tspan></tspan>
-<tspan x="300" y="315"><tspan fill="#8c959f">15</tspan>      <tspan fill="#953800">commits</tspan>    = <tspan fill="#0550ae">645</tspan></tspan>
-<tspan x="300" y="335"><tspan fill="#8c959f">16</tspan>      <tspan fill="#953800">stars</tspan>      = <tspan fill="#0550ae">1</tspan></tspan>
-<tspan x="300" y="355"><tspan fill="#8c959f">17</tspan>      <tspan fill="#953800">followers</tspan>  = <tspan fill="#0550ae">14</tspan></tspan>
-<tspan x="300" y="375"><tspan fill="#8c959f">18</tspan></tspan>
-<tspan x="300" y="395"><tspan fill="#8c959f">19</tspan>      <tspan fill="#953800">lines_changed</tspan> = <tspan fill="#0a3069">"</tspan><tspan fill="#1a7f37">1,112,525++</tspan><tspan fill="#0a3069"> / </tspan><tspan fill="#cf222e">346,396--</tspan><tspan fill="#0a3069">"</tspan></tspan>
-<tspan x="300" y="415"><tspan fill="#8c959f">20</tspan></tspan>
-<tspan x="300" y="435"><tspan fill="#8c959f">21</tspan>      <tspan fill="#953800">languages</tspan>  = [<tspan fill="#0a3069">"Python"</tspan>, <tspan fill="#0a3069">"C#"</tspan>, <tspan fill="#0a3069">"Java"</tspan>, <tspan fill="#0a3069">"PyTorch"</tspan>]</tspan>
-<tspan x="300" y="455"><tspan fill="#8c959f">22</tspan>      <tspan fill="#953800">tools</tspan>      = [<tspan fill="#0a3069">".NET"</tspan>, <tspan fill="#0a3069">"Docker"</tspan>, <tspan fill="#0a3069">"Azure DevOps"</tspan>, <tspan fill="#0a3069">"GCP"</tspan>]</tspan>
+<tspan x="370" y="35"><tspan fill="#8c959f"> 1</tspan>  <tspan fill="#6e7781"># ==========================================================================</tspan></tspan>
+<tspan x="370" y="55"><tspan fill="#8c959f"> 2</tspan>  <tspan fill="#6e7781">#  samarthya04/README.py                Computer Vision &amp; Diffusion Models</tspan></tspan>
+<tspan x="370" y="75"><tspan fill="#8c959f"> 3</tspan>  <tspan fill="#6e7781"># ==========================================================================</tspan></tspan>
+<tspan x="370" y="95"><tspan fill="#8c959f"> 4</tspan></tspan>
+<tspan x="370" y="115"><tspan fill="#8c959f"> 5</tspan>  <tspan fill="#cf222e">class</tspan> <tspan fill="#8250df">SamarthyaChattree</tspan>:</tspan>
+<tspan x="370" y="135"><tspan fill="#8c959f"> 6</tspan>      <tspan fill="#0a3069">"""Associate Software Engineer @ Blackbaud"""</tspan></tspan>
+<tspan x="370" y="155"><tspan fill="#8c959f"> 7</tspan></tspan>
+<tspan x="370" y="175"><tspan fill="#8c959f"> 8</tspan>      <tspan fill="#953800">name</tspan>       = <tspan fill="#0a3069">"Samarthya Earnest Chattree"</tspan></tspan>
+<tspan x="370" y="195"><tspan fill="#8c959f"> 9</tspan>      <tspan fill="#953800">role</tspan>       = <tspan fill="#0a3069">"Associate Software Engineer @ Blackbaud"</tspan></tspan>
+<tspan x="370" y="215"><tspan fill="#8c959f">10</tspan>      <tspan fill="#953800">research</tspan>   = <tspan fill="#0a3069">"Hi-MambaSR: Hierarchical State-Space Refinement"</tspan></tspan>
+<tspan x="370" y="235"><tspan fill="#8c959f">11</tspan>      <tspan fill="#953800">education</tspan>  = <tspan fill="#0a3069">"B.Tech CSE, KIIT (8.86 CGPA)"</tspan></tspan>
+<tspan x="370" y="255"><tspan fill="#8c959f">12</tspan></tspan>
+<tspan x="370" y="275"><tspan fill="#8c959f">13</tspan>      <tspan fill="#6e7781"># GitHub Statistics</tspan>                          <tspan fill="#6e7781"># updated: Jul 11, 2026</tspan></tspan>
+<tspan x="370" y="295"><tspan fill="#8c959f">14</tspan>      <tspan fill="#953800">repos</tspan>      = <tspan fill="#0550ae">0</tspan></tspan>
+<tspan x="370" y="315"><tspan fill="#8c959f">15</tspan>      <tspan fill="#953800">commits</tspan>    = <tspan fill="#0550ae">0</tspan></tspan>
+<tspan x="370" y="335"><tspan fill="#8c959f">16</tspan>      <tspan fill="#953800">stars</tspan>      = <tspan fill="#0550ae">0</tspan></tspan>
+<tspan x="370" y="355"><tspan fill="#8c959f">17</tspan>      <tspan fill="#953800">followers</tspan>  = <tspan fill="#0550ae">0</tspan></tspan>
+<tspan x="370" y="375"><tspan fill="#8c959f">18</tspan></tspan>
+<tspan x="370" y="395"><tspan fill="#8c959f">19</tspan>      <tspan fill="#953800">lines_changed</tspan> = <tspan fill="#0a3069">"</tspan><tspan fill="#1a7f37">0++</tspan><tspan fill="#0a3069"> / </tspan><tspan fill="#cf222e">0--</tspan><tspan fill="#0a3069">"</tspan></tspan>
+<tspan x="370" y="415"><tspan fill="#8c959f">20</tspan></tspan>
+<tspan x="370" y="435"><tspan fill="#8c959f">21</tspan>      <tspan fill="#953800">languages</tspan>  = [<tspan fill="#0a3069">"Python"</tspan>, <tspan fill="#0a3069">"C#"</tspan>, <tspan fill="#0a3069">"Java"</tspan>, <tspan fill="#0a3069">"PyTorch"</tspan>]</tspan>
+<tspan x="370" y="455"><tspan fill="#8c959f">22</tspan>      <tspan fill="#953800">tools</tspan>      = [<tspan fill="#0a3069">".NET"</tspan>, <tspan fill="#0a3069">"Docker"</tspan>, <tspan fill="#0a3069">"Azure DevOps"</tspan>, <tspan fill="#0a3069">"GCP"</tspan>]</tspan>
 </text>
 </svg>
