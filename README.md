@@ -1,10 +1,12 @@
 <div align="center">
 
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/4bfc2bc1-a824-4661-9ce2-405550cf14fa" />
-
-# Samarthya Earnest Chattree
-
-### Associate Software Engineer @ Blackbaud · Computer Vision & Diffusion Models
+<a href="https://github.com/samarthya04/samarthya04">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samarthya04/samarthya04/main/dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samarthya04/samarthya04/main/light_mode.svg">
+    <img alt="Samarthya Chattree - GitHub Profile" src="https://raw.githubusercontent.com/samarthya04/samarthya04/main/dark_mode.svg" width="100%">
+  </picture>
+</a>
 
 <p>
   <a href="mailto:chattree.sam@gmail.com">
