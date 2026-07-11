@@ -299,7 +299,7 @@ def generate_svg(theme, stats):
         return f'<tspan fill="{c[color_key]}">{text}</tspan>'
 
     # Helper: build one full line (line-number + content)
-    def line(y, num, content='', x_offset=520):
+    def line(y, num, content='', x_offset=300):
         ln = col('ln', f'{num:>2}')
         if not content:
             return f'<tspan x="{x_offset}" y="{y}">{ln}</tspan>'
@@ -340,7 +340,13 @@ def generate_svg(theme, stats):
     ascii_file_path = os.path.join(os.path.dirname(__file__), 'ascii-art.txt')
     try:
         with open(ascii_file_path, 'r', encoding='utf-8') as f:
-            ascii_art = f.read().splitlines()
+            raw_lines = f.read().splitlines()
+            non_empty = [line for line in raw_lines if line.strip()]
+            if non_empty:
+                min_indent = min(len(line) - len(line.lstrip()) for line in non_empty)
+                ascii_art = [line[min_indent:].rstrip() for line in raw_lines]
+            else:
+                ascii_art = raw_lines
     except FileNotFoundError:
         ascii_art = ["ASCII art missing"]
 
@@ -351,13 +357,13 @@ def generate_svg(theme, stats):
     y = 20
     for row in ascii_art:
         # Use smaller font-size to fit 56 lines into 480px height
-        ascii_tspans.append(f'<tspan x="15" y="{y}" fill="{c["ascii"]}" font-size="8px">{escape_xml(row)}</tspan>')
+        ascii_tspans.append(f'<tspan x="30" y="{y}" fill="{c["ascii"]}" font-size="8px">{escape_xml(row)}</tspan>')
         y += 8
         
     ascii_group = '\n'.join(ascii_tspans)
 
     return f'''<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1450px" height="480px" font-size="15px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1050px" height="480px" font-size="15px">
 <style>
 @font-face {{
 src: local('Consolas'), local('Consolas Bold');
@@ -368,7 +374,7 @@ size-adjust: 109%;
 }}
 text, tspan {{white-space: pre;}}
 </style>
-<rect width="1450px" height="480px" fill="{c['bg']}" rx="15"/>
+<rect width="1050px" height="480px" fill="{c['bg']}" rx="15"/>
 <text x="15" y="30" fill="{c['text']}">
 {ascii_group}
 {tspans}
